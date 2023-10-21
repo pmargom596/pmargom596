@@ -10,7 +10,7 @@
 ---
 ### ___¿Que lenguajes conozco?___ :man_technologist:
 Los lenguajes en los que me he formado y sigo formandome en mis estudios:
-| Front-End | Back-End |
+| **Front-End** | Back-End |
 |:--------:|:-------:|
 | HTML | JAVA |
 | CSS | PHP |
