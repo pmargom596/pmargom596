@@ -22,7 +22,7 @@ Contacta conmigo mediante correo electrónico: ***pablomarquezgom@gmail.com***
 ---
 ### ___Experiencia en prácticas___ :briefcase:
 A lo largo de mis estudios he realizado prácticas en diferentes empresas y en diferentes lugares:
-- APP Informática - Los Palacios y Villafranca (2019) :es:
+- APP Informática - Los Palacios y Villafranca (2019) :flag_es:
 - SSI - Los Palacios y Villafranca (2020) :es:
 - LFK Global Technology Services S.L. - Los Palacios y Villafranca (2022) :es:
 - Valuetech - Rende, Italia (2022) :it:
