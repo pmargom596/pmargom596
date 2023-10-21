@@ -15,10 +15,10 @@ Los lenguajes y tecnologías en los que me he formado y sigo formandome en mis e
 |:--------:|:-------:|:-------:|
 | HTML | JAVA | Bootstrap |
 | CSS | PHP | Spring Boot |
-| JAVASCRIPT | |
+| JAVASCRIPT | | |
 ---
 ### ___Contacta conmigo___ :e-mail:
-- Correo electrónico: ***pablomarquezgom@gmail.com***
+- ___Correo electrónico:___ ***pablomarquezgom@gmail.com***
 ---
 ### ___Experiencia en prácticas___ :briefcase:
 A lo largo de mis estudios he realizado prácticas en diferentes empresas y en diferentes lugares:
