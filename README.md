@@ -22,8 +22,8 @@ Los lenguajes y tecnologías en los que me he formado y sigo formandome en mis e
 ---
 ### ___Experiencia en prácticas___ :briefcase:
 A lo largo de mis estudios he realizado prácticas en diferentes empresas y en diferentes lugares:
-- APP Informática - Los Palacios y Villafranca (2019) :es:
-- SSI - Los Palacios y Villafranca (2020) :es:
-- LFK Global Technology Services S.L. - Los Palacios y Villafranca (2022) :es:
-- Valuetech - Rende, Italia (2022) :it:
-- Soltel Group - Sevilla (2023) :es:
+- APP Informática - Los Palacios y Villafranca (2019) :round_pushpin: :es:
+- SSI - Los Palacios y Villafranca (2020) :round_pushpin: :es:
+- LFK Global Technology Services S.L. - Los Palacios y Villafranca (2022) :round_pushpin: :es:
+- Valuetech - Rende, Italia (2022) :airplane: :it:
+- Soltel Group - Sevilla (2023) :round_pushpin: :es:
