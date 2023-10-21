@@ -1,16 +1,21 @@
-### Hi there 👋
-
-<!--
-**pmargom596/pmargom596** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# **Hola** :raising_hand_man:
+### ___Sobre mi___ :bust_in_silhouette:
+---
+- **Nombre:** Pablo Márquez Gómez
+- **Edad:** 21 años
+- **Nacionalidad:** Española
+---
+### ___Estudios___ :man_student: :computer:
+- **Técnico en sistemas microinformáticos y redes**
+- **Actualmente realizando un grado superior de Desarrollo de Aplicaciones Web**
+---
+### ___¿Que lenguajes conozco?___ :man_technologist:
+Los lenguajes en los que me he formado y sigo formandome en mis estudios:
+| Front-End | Back-End |
+|:--------:|:-------:|
+| HTML | JAVA |
+| CSS | PHP |
+| JAVASCRIPT | |
+---
+### ___Contacta conmigo___ :e-mail:
+Contacta conmigo mediante correo electrónico: ***pablomarquezgom@gmail.com***
