@@ -3,7 +3,7 @@
 ### ___Sobre mi___ :bust_in_silhouette:
 - **Nombre:** Pablo Márquez Gómez
 - **Edad:** 21 años
-- **Nacionalidad:** Española
+- **Nacionalidad:** Español
 ---
 ### ___Estudios___ :man_student: :computer:
 - **Técnico en sistemas microinformáticos y redes**
